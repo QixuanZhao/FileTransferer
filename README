@@ -8,4 +8,4 @@ Server Usage:
 
 java FileServerStart [port]
 
-Files uploaded to server will be stored in server's working directory where the above command was launched.
+Files uploaded to the server will be stored at the path where the above command was launched.

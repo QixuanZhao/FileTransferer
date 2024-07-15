@@ -1,5 +1,4 @@
 import cn.edu.xjtu.stu.zqx.FileClient;
-import cn.edu.xjtu.stu.zqx.FileServer;
 
 public class FileTransferer {
     public static void main(String[] args) {
